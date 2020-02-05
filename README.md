@@ -1,2 +1,2 @@
-# test
-Testing git
+# Github Repo Prac
+Inital Commit for Alex
